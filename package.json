@@ -1,0 +1,27 @@
+{
+  "name": "react-vue-merged",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite build --watch" ,
+    "build": "vite build",
+    "preview": "php -S 127.0.0.1:8000 index.php"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "rolldown": "1.0.0-rc.2",
+    "typescript": "^5.2.2",
+    "vite": "^6.0.0"
+  },
+  "packageManager": "pnpm@10.28.2+sha512.41872f037ad22f7348e3b1debbaf7e867cfd448f2726d9cf74c08f19507c31d2c8e7a11525b983febc2df640b5438dee6023ebb1f84ed43cc2d654d2bc326264"
+}

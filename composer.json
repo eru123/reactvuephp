@@ -1,0 +1,19 @@
+{
+    "name": "eru123/reactvuephp",
+    "description": "I hate myself",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eru123",
+            "email": "jericho@skiddph.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
